@@ -10,6 +10,13 @@ function Header() {
             <a href="#">Resume</a>
         </nav>
       </header>
+
+      <section class="hero-banner">
+        <div>
+            <h2> HTML & CSS' Worst Nightmare</h2>
+        </div>
+    </section>
+    
     </div>
   );
 }
