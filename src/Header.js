@@ -1,3 +1,5 @@
+import "../src/Header.css"
+
 function Header() {
   return (
     <div className="header">
@@ -7,7 +9,7 @@ function Header() {
             <a href="#about">About Me</a>
             <a href="#work">Work</a>
             <a href="#contact">Contact Me</a>
-            <a href="#">Resume</a>
+            {/* <a href="#">Resume</a> */}
         </nav>
       </header>
 
@@ -16,7 +18,7 @@ function Header() {
             <h2> HTML & CSS' Worst Nightmare</h2>
         </div>
     </section>
-    
+
     </div>
   );
 }
