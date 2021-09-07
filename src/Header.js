@@ -13,7 +13,7 @@ function Header() {
         </nav>
       </header>
 
-      <section class="hero-banner">
+      <section className="hero-banner">
         <div>
             <h2> HTML & CSS' Worst Nightmare</h2>
         </div>

@@ -1,5 +1,5 @@
 header {
-    padding: 20px 20px 20px 0;
+    padding: 10px 20px 15px 0;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -24,6 +24,7 @@ nav{
 }
 
 nav a {
+    display: flex;
     text-decoration: none;
     padding: 10px;
     margin-right: 10px;
@@ -34,6 +35,9 @@ nav a {
     background-position: bottom;
     font-size: 1.4em;
     transition: all .25s ease-in;
+    
+    
+
 }
 
 nav a:hover {
@@ -42,9 +46,9 @@ nav a:hover {
 }
 
 .hero-banner {
-    background-image: url("../images/internet-s-universe-1157807.jpg");
-    height: 400px;
-    width: 100%;
+    background-image: url('/src/img/codeBackground.jpg');
+    height: 40vh;
+    width: 100vw;
     background-size:cover;
     display: flex;
     flex-direction: row;
@@ -59,5 +63,5 @@ nav a:hover {
     color: var(--c);
     background-color: var(--b);
     font-size: 1vw;
-    padding-right: 5px;
+    padding-right: 10px;
 }
