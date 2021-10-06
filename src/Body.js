@@ -6,7 +6,10 @@ function Body() {
             <section id="about" className="content">
                 <h2 className="leftbar">About Me</h2>
                 <div className="para">
-                    <p> I'm a 22 year old Jr developer that graduated from the University of Central Florida. </p>
+                    <p> Full Stack Web Developer with a background in customer service, 
+                        bringing a distinctive approach to how users understand and interact with websites and web applications. 
+                        Trained and graduated with a certificate in HTML, CSS, JavaScript, and MERN Stack at the UCF Full Stack Bootcamp. 
+                        Agile and intuitive and problem-solver with a passion for building a unique user experience through web applications. </p>
                 </div>
             </section>
 
